@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/8f4df0a4940605ee0c94ca31ca6ed8d0/70724b283d01b660-fd/s1280x1920/5d42488fdbb657f4b9580027b0e863cb99027247.gif" alt="animated gif background" width="780">
+<img src="https://64.media.tumblr.com/8f4df0a4940605ee0c94ca31ca6ed8d0/70724b283d01b660-fd/s1280x1920/5d42488fdbb657f4b9580027b0e863cb99027247.gif" alt="animated gif background" width="1000">
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A IT Student and Programmer from Poland, as hobby I create 3D models, mostly ready for game engine.</h3>
