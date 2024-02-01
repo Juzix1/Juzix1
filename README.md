@@ -1,3 +1,5 @@
+<img src="https://media3.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif?cid=82a1493b57v2mwx92apsotxgdgbfjiijzpfgkebn28j7nuki&ep=v1_videos_related&rid=giphy.gif&ct=v" alt="animated gif background">
+
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A IT Student and Programmer from Poland, as hobby I create 3D models, mostly ready for game engine.</h3>
 
