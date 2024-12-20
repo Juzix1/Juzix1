@@ -2,11 +2,11 @@
 object-position: 25% 25%; ">
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A IT Student and Programmer from Poland, as hobby I create 3D models, mostly ready for game engine.</h3>
+<h3 align="center">A IT Student and Programmer from Poland, as hobby I create 3D models, and program apps in C#, React and Java.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzix1" alt="juzix1" /></a> </p>
 
-- 🔭 I’m currently working on **Java Organizer/Calendar App**
+- 🔭 I’m currently working ** C# ASP.NET Framework**
 
 - 🌱 I’m currently learning **Java, C++**
 
