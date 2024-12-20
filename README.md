@@ -6,9 +6,9 @@ object-position: 25% 25%; ">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzix1" alt="juzix1" /></a> </p>
 
-- 🔭 I’m currently working ** C# ASP.NET Framework **
+- 🔭 I’m currently working **C# ASP.NET Framework**
 
-- 🌱 I’m currently learning ** C# **
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [Juzix1.github.io](Juzix1.github.io)
 
