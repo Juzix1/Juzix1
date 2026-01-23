@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **engineering thesis**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **ASP .NET BLAZOR**
 
 - 📫 How to reach me **kontakt.kacperjozwiak@gmail.com**
 
