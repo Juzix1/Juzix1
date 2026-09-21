@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">Junior backend developer</h3>
+<h3 align="center">Junior C# Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juzix1&label=Profile%20views&color=0e75b6&style=flat" alt="juzix1" /> </p>
 
-- 🔭 I’m currently working on **engineering thesis**
 
-- 🌱 I’m currently learning **ASP .NET BLAZOR**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **kontakt.kacperjozwiak@gmail.com**
 
